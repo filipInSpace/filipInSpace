@@ -1,6 +1,6 @@
 ### Hello there 👋 
 
-<img src="images/s_p_avatar.png" width=100>
+<img src="images/s_p_avatar.png" align="right" />
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, building software, UI/UX and Web development.
 
