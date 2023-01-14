@@ -22,3 +22,4 @@ I'm a computer science student :computer: who is passionate about writing code, 
   ![Adobe Lightroom](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Lightroom&color=31A8FF&logo=Adobe+Lightroom&logoColor=FFFFFF&label=)
   ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=) 
   ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=0696D7&logo=Autodesk&logoColor=FFFFFF&label=)
+  ![Adobe Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Fonts&color=000B1D&logo=Adobe+Fonts&logoColor=FFFFFF&label=)
