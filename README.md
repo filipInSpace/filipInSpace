@@ -6,7 +6,7 @@ I'm a computer science student :computer: who is passionate about writing code, 
 
 - :school: I’m currently a Computer Science student at STU FIIT.
 - :books: I’m currently learning backend and frontend web development using NodeJS, ExpressJS, React, Sanity, Javascript.
-- :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](willAddLinkLater) [![ProtonMail](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonMail&color=8B89CC&logo=ProtonMail&logoColor=FFFFFF&label=)](mailto:navrkal.filip.work@proton.me)
+- :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/filip-n-881815261/) [![ProtonMail](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonMail&color=8B89CC&logo=ProtonMail&logoColor=FFFFFF&label=)](mailto:navrkal.filip.work@proton.me)
 
 ### I know how to use: </h1>
   ### Code: </h2>
@@ -24,4 +24,3 @@ I'm a computer science student :computer: who is passionate about writing code, 
   ![Adobe Lightroom](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Lightroom&color=31A8FF&logo=Adobe+Lightroom&logoColor=FFFFFF&label=)
   ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=) 
   ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=0696D7&logo=Autodesk&logoColor=FFFFFF&label=)
-  ![Adobe Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Fonts&color=000B1D&logo=Adobe+Fonts&logoColor=FFFFFF&label=)
