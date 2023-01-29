@@ -1,12 +1,21 @@
 ### Hello there 👋 
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a computer science student :computer: who is passionate about writing code, solving problems, automating stuff, building software, UI/UX and Web development.
-
+<div style="flex:1; margin-left:20px;">
+    <img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/121701664/215357720-7954d94f-45ae-4569-a756-f2997dca656b.png">
+  </div>
+<div style="display:flex;">
+  <p style="flex:1;">
+    I'm a computer science student :computer: who is passionate about writing code, solving problems, automating stuff, building software, UI/UX and Web development.
+  </p>
+  
 - :school: I’m currently a Computer Science student at STU FIIT.
-- :books: I’m currently learning backend and frontend web development using NodeJS, ExpressJS, React, Sanity, Javascript.
+  
+- :books: I’m currently learning backend and frontend web development using NodeJS, ExpressJS, ReactJS, Sanity.
+  
 - :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/filip-n-881815261/) [![ProtonMail](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonMail&color=8B89CC&logo=ProtonMail&logoColor=FFFFFF&label=)](mailto:navrkal.filip.work@proton.me)
+
+
 
 ### I know how to use: </h1>
   ### Code: </h2>
