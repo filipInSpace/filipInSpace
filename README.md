@@ -1,14 +1,14 @@
 ### Hello there 👋 
 
 
-<div style="flex:1; margin-left:20px;">
-    <img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/121701664/215357720-7954d94f-45ae-4569-a756-f2997dca656b.png">
+<div style="flex:1; margin-left:30px;">
+    <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/121701664/215359997-50f86e20-64f5-4f22-93dd-55483ed9053f.png">
   </div>
 <div style="display:flex;">
   <p style="flex:1;">
     I'm a computer science student :computer: who is passionate about writing code, solving problems, automating stuff, building software, UI/UX and Web development.
   </p>
-  
+
 - :school: I’m currently a Computer Science student at STU FIIT.
   
 - :books: I’m currently learning backend and frontend web development using NodeJS, ExpressJS, ReactJS, Sanity.
