@@ -6,12 +6,12 @@
   </div>
 <div style="display:flex;">
   <p style="flex:1;">
-    I'm a computer science student :computer: who is passionate about writing code, solving problems, automating stuff, building software, UI/UX and Web development.
+    I'm a Fullstack Developer with over 2 years of experience in building web applications. I am passionate about creating high-quality software that is both performant and user-friendly.
   </p>
-
-- :school: I’m currently a Computer Science student at STU FIIT.
   
-- :books: I’m currently learning backend and frontend web development using NodeJS, ExpressJS, ReactJS, Sanity.
+- :books: I’m currently learning Web3 development and exploring the exciting world of decentralized applications. I am eager to apply my skills and knowledge to build innovative and impactful projects that can help shape the future of the web.
+
+- :basketball: Feel free to check out my GitHub repositories to see some of my previous work. If you have any questions or would like to connect, please don't hesitate to reach out!
   
 - :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/filip-n-881815261/) [![ProtonMail](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonMail&color=8B89CC&logo=ProtonMail&logoColor=FFFFFF&label=)](mailto:navrkal.filip.work@proton.me)
 
