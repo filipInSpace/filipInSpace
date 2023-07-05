@@ -6,7 +6,7 @@
   </div>
 <div style="display:flex;">
   <p style="flex:1;">
-    I'm a Fullstack Developer with over 2 years of experience in building web applications. I am passionate about creating high-quality software that is both performant and user-friendly.
+    I'm a Fullstack Developer with experience in building web applications. I am passionate about creating high-quality software that is both performant and user-friendly.
   </p>
   
 - :books: I’m currently learning Web3 development and exploring the exciting world of decentralized applications. I am eager to apply my skills and knowledge to build innovative and impactful projects that can help shape the future of the web.
